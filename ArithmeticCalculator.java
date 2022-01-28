@@ -23,6 +23,6 @@ public class ArithmeticCalculator {
 		case '/':Ans=firstnum/secnum;
 		break;
 		}
-		System.out.println("Answer : "+firstnum + op + secnum  + " = 1"+ Ans);	}
+		System.out.println("The " + firstnum +" "+ op +" "+ secnum  + " is"+ " = "+ Ans);	}
        
 	}
